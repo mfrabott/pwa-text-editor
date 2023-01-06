@@ -22,7 +22,7 @@ This progressive web app allows users to take and edit notes online or as a down
 
 ## Installation
 
-Clone the repo, install npm packages, run on localhost. Click button to download the app from the browser.
+Clone the repo, install npm packages, run build script, run on localhost:3000. Click button to download the app from the browser.
 
 Repository at: https://github.com/mfrabott/pwa-text-editor
 
