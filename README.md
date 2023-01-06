@@ -16,6 +16,10 @@
 
 [Questions](#Questions)
 
+[Screen Capture](#Screen-Capture)
+
+[Deployed Link](#Deployed-Link)
+
 ## Project Description
 
 This progressive web app allows users to take and edit notes online or as a downladable app.
@@ -48,7 +52,7 @@ For any questions, please contact me at: mfrabott@gmail.com
 
 The following image shows the application's appearance and functionality:
 
-![JATE with ASCII art, a logo, and a couple notes in the web browser and installed app.](./assets/Screenshot-2023-01-05-210020.png)
+![JATE with ASCII art, a logo, and a couple notes in the web browser and installed app.](/assets/Screenshot-2023-01-05-210020.png)
 
 ## Deployed Link
 
