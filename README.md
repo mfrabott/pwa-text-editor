@@ -44,3 +44,12 @@ Find more of my work at: https://github.com/mfrabott
 
 For any questions, please contact me at: mfrabott@gmail.com
 
+## Screen Capture
+
+The following image shows the application's appearance and functionality:
+
+![JATE with ASCII art, a logo, and a couple notes in the web browser and installed app.](./assets/Screenshot%202023-01-05%20210020.png)
+
+## Deployed Link
+
+https://powerful-wildwood-70016.herokuapp.com/
