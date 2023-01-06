@@ -30,8 +30,14 @@ module.exports = () => {
 
       new MiniCssExtractPlugin(),
       
-      new GenerateSW(),
+      new InjectManifest({
+        swSrc: './src-sw.js',
+        swDest: 'src-sw.js',
+      }), 
+
       new WebpackPwaManifest({
+        fingerprints: false,
+        inject: true,
         name: 'JATE',
         short_name: 'JATE',
         description: 'Keep notes online and offline!',
